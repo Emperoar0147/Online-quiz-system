@@ -1,0 +1,34 @@
+.quiz-container {
+    text-align: center;
+    background-image: url('../assets/school-logo.png'); /* Reference the logo for background */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    padding: 20px;
+  }
+  
+  .question-section, .answer-section, .timer {
+    margin: 20px;
+  }
+  
+  .question-count {
+    font-size: 20px;
+  }
+  
+  .question-text {
+    font-size: 24px;
+  }
+  
+  .answer-section button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .timer {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
